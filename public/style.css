@@ -32,8 +32,8 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 #navigation {
         position: absolute;
         top: 2%;
-        right: 0%;
-        width: 35%;
+        right: 10%;
+        width: 55%;
         background-color: inherit;
 }
 
